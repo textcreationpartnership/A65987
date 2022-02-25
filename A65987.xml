@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vnto those people who are called Baptists.</title>
+            <author>Wight, Thomas, of Market St., Herts.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65987</idno>
+            <idno type="STC">Wing W2109</idno>
+            <idno type="STC">ESTC R214793</idno>
+            <idno type="EEBO-CITATION">99826862</idno>
+            <idno type="PROQUEST">99826862</idno>
+            <idno type="VID">31271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31271)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1771:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vnto those people who are called Baptists.</title>
+                  <author>Wight, Thomas, of Market St., Herts.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.W., i.e. Thomas Wight.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:31271:1" rendition="simple:additions"/>
+            <head>Vnto thoſe PEOPLE Who are called <hi>BAPTISTS.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">F</seg>Riends,</salute>
+            </opener>
+            <p>in tender love to your ſouls is my ſoul drawn forth, for I ſee there is a zeal among you, but is your zeal according to knowledge, whilſt many of you are profeſſing, preaching, praying and worſhipping, and yet ſtumbling at, and con<g ref="char:EOLhyphen"/>tending againſt that in which alone all Worſhip, Pray<g ref="char:EOLhyphen"/>ers and Sacrifices is accepted in the ſighr of God? there<g ref="char:EOLhyphen"/>fore this is the word of truth which I teſtifie unto you, that except your Worſhip, Prayers and ſacrifices do pro<g ref="char:EOLhyphen"/>ceed and come from a meaſure of him in you who is the light of the world, in whom alone the Father is well pleaſed, you are but warming your ſelves at your own ſparks which you have kindled, for which you muſt re<g ref="char:EOLhyphen"/>ceive of the Lord a lying down in ſorrow: Therefore ye who are crying out of deceit and deluſion; I ſay, be not deceived, for God will not be worſhipped or ſerved but with his own ſeed onely; therefore weary him not with that which is yours, and take heed of rejecting or ſlight<g ref="char:EOLhyphen"/>ting that meaſure of his own ſeed which he hath given you to ſerve him with, even that in you which moves con<g ref="char:EOLhyphen"/>trary to the world, and breathes after the Fountain from whence it came, that which ſearcheth the heart, yea, the
+<pb n="2" facs="tcp:31271:2"/> ſecrets therein, and makes manifeſt the deceit and hypo<g ref="char:EOLhyphen"/>cryſie thereof, this is the ſeed of the kingdom in you, which is like a grain of muſtard ſeed, and this is the grace of God which bringeth ſalvation, and hath appeared unto all men for this end, to lead out of the dark paths of ſin and death and this is the light which ſhines in the dark heart of man, but the darkneſſe comprehends it not; but men loves the darkneſs rather then the light, becauſe it makes their cru<g ref="char:EOLhyphen"/>el deeds manifeſt: and are not many of you ſtrangers to this light, having your hearts vailed over with thick dark<g ref="char:EOLhyphen"/>neſſe, whilſt you are profeſsing and reading the Scriptures, and yet are queſtioning where they declare of, or direct to a light within? Oh how hath the God of this world blind<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the eyes of many, who are ſtumbling at that which is given them to lead out of darkneſs, even that ſure word of Propheſie, unto which you might do well to take heed, as unto a light that ſhines in a dark place, untill the day dawn, and the day-ſtar ariſe in your hearts; but how can ye profeſſe that ye know God, whilſt you are denying the light of his ſon within, in which the Father is revea<g ref="char:EOLhyphen"/>led, and by which that that may be known of God is made manifeſt in man; or is there another way to come to the knowledge of God, then by his light which ſhines in the heart, and gives the light of the knowledge of the glory of God in the face of Jeſus: Was not this the Apoſtles Doctrine, and the end of their Miniſtry, to turn people from darkneſſe to this light, that ſo they might come to know him in them who is the light of the world, for they who know him onely outwardly after the fleſh, they murdered him in whom the fulneſs of Light, Life and power dwelt: becauſe they knew him not that was
+<pb n="3" facs="tcp:31271:2"/> from the beginning, the word of life, the rock of ages, the bread that came down from heaven, the fleſh that was meat indeed, and the blood that was drink indeed, they knew not, neither had they heard the voice of God, or ſeen his ſhape, at any time, for they were erred and gone forth from that which would have made him manifeſt, even the ſeed of that kingdome within them, which they were ſeeking in obſervations without, and in the Scripture without they did think to have eternal life; but unto him that was the life, of whom the Scripture teſtified they would not come, but ſtumbled at the ſtumbling ſtone: now ye that deny that Chriſt hath enlightened all men with a light ſufficient to lead to ſalvation, whoſe faith is, that God hath appointed a certain number before the world was unto ſalvation, and unto them he affords grace ſufficient to bring them to the end appointed them, and that all others are reprobated to deſtruction, and yet ſay, that God gives ſo much of his grace to them, as may leave them without excuſe, and that may be ſufficient to con<g ref="char:EOLhyphen"/>demn but not to ſave them; notwithſtanding, God decla<g ref="char:EOLhyphen"/>reth, That he wills not the death of him that dyeth, but rather that he would turn from his wickedneſſe and live, and that he hath given his Son a light into the world, that it through him might be ſaved, and that he would all men ſhould be ſaved, and come to the knowledge of the truth, and that he is no reſpecter of perſons; but though your faith doth ſtand in reſpect of perſons, will you therefore make God to be like your ſelves, ſurely if you will but come down and own the wiſdome of God, ye might in it ſee your Principles to be ſuch that even ſtrikes at the root of the Juſtice of God, limits his mercy, and makes him a reſpecter of perſons, and rherefore do I bear wit<g ref="char:EOLhyphen"/>neſs
+<pb n="4" facs="tcp:31271:3"/> againſt it, and do affirm that Election and Reproba<g ref="char:EOLhyphen"/>tion is not in reſpect or relation to perſons, but in the two ſeeds, between which God hath put enmity, there hath God paſt Election and Reprobation, and all men as they are in the fall in ſin and tranſgreſsion are under the curſe and in the ſtate of Reprobation, being joyned unto that ſeed where the curſe and Reprobation is: therefore hath God in his love given his Son to redeem man out of that ſtate, from under the power of the Serpent, again unto himſelf, and into his power and Dominion, who is the ſeed unto which the bleſsing is, and in whom the Election ſtands ſure, unto as many as are in him, who is the light, and of whoſe fulneſs all have a meaſure, even of the grace, that brings ſalvation, which unto all hath appeared, and the grace of God is one, and is not divided, though ſome in their dark imagination<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſtinguiſh between grace ſuffici<g ref="char:EOLhyphen"/>ent, and grace not ſufficient, or ſaving grace, and pre<g ref="char:EOLhyphen"/>venting or reſtraining grace; but I ſay the grace of God is perfect, and the leaſt meaſure thereof is ſufficient to ſave to the uttermoſt all thoſe that give up themſelves to be led and guided by it; but the ſloathfull ſervant hides his Lords Talent, and then complains of his Lord, but he re<g ref="char:EOLhyphen"/>ceives his portion in utter darkneſs, whilſt he that had im<g ref="char:EOLhyphen"/>proved his two talents, received his portion with him that had ten; and this I teſtifie that it is onely by grace that ſal<g ref="char:EOLhyphen"/>vation is wrought, and not by any thing of mans own, for where grace is truly owned, there ſelf is as truly denied in all its willing &amp; working; for when that is owned and join<g ref="char:EOLhyphen"/>ed to, which is Gods power, then all mans work which he hath wrought, and all his fair buildings which he hath framed in ſelf, in his own power and wiſdome, though glorious in appearance, yet all muſt be pulled down and
+<pb n="5" facs="tcp:31271:3"/> an utter deſolation muſt be known &amp; witneſſed of what<g ref="char:EOLhyphen"/>ſoever hath been done out of the grace, out of the light, out of the life and power of God: And therefore I ſay to you again, Be not deceived whilſt you are ſaying others are deceived &amp; deluded; ye who are joined in that you call Church-fellowſhip, by the outward form of waſhing, try your ſelves by the witneſs of God in your conſciences, whether you are yet truly come to the fellowſhip of the Church that is in God, which is the pillar and ground of truth; and whether you have known the baptiſm which is by fire; and have you felt the flaming ſword of the Lord killing the firſt nature in you, that which hath eaten the forbidden fruit, and hath had its life in the pride, pleaſures luſt, and vanities of the world? And have you known and felt the quickening power of the Lord God raiſing up a ſeed, and bringing forth a birth in you which is not of the world, but contrary thereunto? And are ye by it led forth of the vvorld, out of the evil and vanities thereof, bearing the daily croſs? Are you yet become as ſtrange ſigns, vvonders and gazing-ſtocks in the Earth? Or are you not ſtill in the vvorld, and joined vvith them in their vvayes of pride, pleaſure and vanity, coveting to be rich in the things of this World, which can give no ſatisfacti<g ref="char:EOLhyphen"/>on to the ſoul? And are you yet come out of the cuſtoms and faſhions of this world, ſuch as are vain and idle, with<g ref="char:EOLhyphen"/>out any ſhew of purity or godlineſs, but manifeſt the heart unſavoury, and the tongue unbridled, yet are they cover<g ref="char:EOLhyphen"/>ed with the name of civil things? And are you not in the cuſtoms of the world, in reſpecting of perſons, and in bowing and bending to them, or rather to a ſpirit of pride in them, which ſeek the honor of man; and thereby is that nouriſhed and ſtrengthened which muſt be brought
+<pb n="6" facs="tcp:31271:4"/> down, and laid low, even the lofty looks of man; for there is nothing honourable in man but the image of God, and ſuch as bears his image are humble, meek and lowly, and ſeeks not the honor of man, neither can ſuch bow to that ſpirit of pride in any that ſeeks to be honor<g ref="char:EOLhyphen"/>ed; and this cuſtom is covered with the Name of civil re<g ref="char:EOLhyphen"/>ſpect, or civil curteſie or carriage, and the like; but the eye that is pure ſees the root to be corrupt, and it no bet<g ref="char:EOLhyphen"/>ter then a cuſtom of the Heathen, and their faſhions and cuſtoms are vain; and where the pure life of God is wit<g ref="char:EOLhyphen"/>neſſed, there the heatheniſh nature is ſlain, and the vanity is trodden under foot: Therefore I ſay, Come all to the Witneſs of God, the light in every one of your conſci<g ref="char:EOLhyphen"/>ences, where all may know and read their own conditi<g ref="char:EOLhyphen"/>ons, and that none may take up a reſt, and ſit down at eaſe in a profeſſion without the life; but that ſuch as profeſs the Name of the Lord might know his power who makes the ſinners in <hi>Zion</hi> afraid, and brings terror upon the hypo<g ref="char:EOLhyphen"/>crites, and might know God to be a devouring fire, and everlaſting burnings, in whoſe pure preſence the workers of iniquity cannot ſtand nor abide to dwell, but ſuch as have innocent hands and a pure heart: <hi>Therefore let every one that nameth the name of the Lord, depart from iniquity.</hi>
+            </p>
+            <closer>
+               <signed>Thomas Wight.</signed>
+            </closer>
+         </div>
+         <div type="queries">
+            <head>Some <hi>Queries</hi> as followeth.</head>
+            <p>WHat command or commiſſion have ye or any man to baptize with water from Chriſt, declared of in any Scripture, which command did not as wel extend un<g ref="char:EOLhyphen"/>to <hi>Paul,</hi> (who was an Apoſtle) as to any of you?</p>
+            <pb n="7" facs="tcp:31271:4"/>
+            <p> VVhether the outward waſhing with water, (which is but the ſhadow) and <hi>Iohn</hi>'s baptiſm; or the inward wa<g ref="char:EOLhyphen"/>ſhing and cleanſing by the ſpirit, (which is the baptiſm of Chriſt) which of theſe (I ſay) is that one baptiſm which <hi>Paul</hi> wrote of? Or why writes he but of one there If both muſt be continued? Whether ſuch do truly diſ<g ref="char:EOLhyphen"/>cern the Lords body, eat his fleſh, and drink his blood, who do imagine of the fleſh, blood and bones of Chriſt as the Jews did? And whether that fleſh which is meat indeed, and that blood whlch is drink indeed, be not ſpirit<g ref="char:EOLunhyphen"/>tual, and that which quickeneth and nouriſheth up to e<g ref="char:EOLhyphen"/>ternal life all thoſe that feed thereon? And what then is the fleſh that profiteth nothing? And what is that fleſh after which Chriſt was once known, yet henceforth know we him ſo no more.</p>
+            <p>Now thoſe whoſe mindes are not carnal, nor their eyes outward, which look not at things that are ſeen without, ſuch onely ſee and know the things that are ſpiritual, the myſterie that hath been hid from ages, even <hi>the great myſterie of godlineſs, which is, God manifested in fleſh, juſtified in ſpirit, ſeen of Angels, preached unto the Gentiles, believed on in the world, and received into glory.</hi>
+            </p>
+            <closer>
+               <dateline>Market-ſtreet <date>the 4th. of the 5th. Month, 1659.</date>
+               </dateline> 
+               <signed>T. W.</signed>
+            </closer>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Thomas Simmon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>at the</hi> Bull <hi>and</hi> Mouth <hi>near</hi> Alderſgate, 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
